@@ -1,0 +1,32 @@
+{
+  "name": "sky-app-function-1new",
+  "version": "1.0.0",
+  "description": "Sử dụng Material-UI để tạo giao diện người dùng và React để quản lý trạng thái và logic của ứng dụng",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptkhanh94/sky-app-function-1new.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptkhanh94/sky-app-function-1new/issues"
+  },
+  "homepage": "https://github.com/ptkhanh94/sky-app-function-1new#readme",
+  "dependencies": {
+    "fest": "^0.12.1",
+    "react": "^18.2.0",
+    "sky-app-function-10": "^1.0.0",
+    "sky-app-function-2": "^1.0.0",
+    "sky-app-function-3": "^1.0.0",
+    "sky-app-function-4": "^1.0.0",
+    "sky-app-function-5": "^1.0.0",
+    "sky-app-function-6": "^1.0.0",
+    "sky-app-function-7": "^1.0.0",
+    "sky-app-function-8": "^1.0.0",
+    "sky-app-function-9": "^1.0.0"
+  }
+}
